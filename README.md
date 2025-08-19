@@ -14,15 +14,8 @@ My work includes **sentiment analysis**, **healthcare AI**, and **chatbot** appl
 
 ---
 
-### 🛠️ Skills & Tools
-**Programming & Data:** Python · SQL  
-**ML/DL:** Logistic Regression · Random Forest · XGBoost · LSTM/Bi-LSTM · NLP · TensorFlow/Keras  
-**Libraries:** Pandas · NumPy · Matplotlib  
-**Web & Deployment:** Flask · ReactJS  
-**Data Tools:** Excel · Power BI (ongoing)  
-**APIs/Platforms:** Cohere API · Google Gemini · NewsAPI · GoMaps
 
----
+
 
 ### 🚀 Featured Projects
 
