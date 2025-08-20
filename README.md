@@ -14,9 +14,6 @@ My work includes **sentiment analysis**, **healthcare AI**, and **chatbot** appl
 
 ---
 
-
-
-
 ### 🚀 Featured Projects
 
 #### 📰 AI-Powered Sentiment Analysis Bot (Aug 2025)
@@ -27,7 +24,7 @@ My work includes **sentiment analysis**, **healthcare AI**, and **chatbot** appl
 
 ---
 
-#### 🩺 Multi-Chronic Disease Detection Bot (Dec 2024 – Mar 2025)
+#### 🩺 [Multi-Chronic Disease Detection Bot (Dec 2024 – Mar 2025)](https://multi-chronic-disease-detection-bot.onrender.com/)
 **Stack:** Python, CNN, Random Forest, Flask  
 - CNN feature extraction + tuned **Random Forest**, achieving **92.25% accuracy** on chest X-rays across **five respiratory diseases**.  
 - **Flask-based chatbot** for real-time prediction and accessibility.  
@@ -47,5 +44,5 @@ My work includes **sentiment analysis**, **healthcare AI**, and **chatbot** appl
 <p align="center">
   <a href="mailto:bhargavvijaymaddugaru@gmail.com"><img src="https://img.shields.io/badge/Email-bhargavvijaymaddugaru%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/maddugarubhargav"><img src="https://img.shields.io/badge/LinkedIn-maddugarubhargav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/maddugarubhargavvijay"><img src="https://img.shields.io/badge/[GitHub-maddugarubhargavvijay-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/maddugarubhargavvijay"><img src="https://img.shields.io/badge/GitHub-maddugarubhargavvijay-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
