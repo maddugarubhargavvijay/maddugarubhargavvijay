@@ -23,12 +23,12 @@ My work includes **sentiment analysis**, **healthcare AI**, and **chatbot** appl
 - **Gemini** for sentiment justification; **NewsAPI** surfaces related positive financial news on negative sentiment.
 
 ---
-
-#### 🩺 [Multi-Chronic Disease Detection Bot (Dec 2024 – Mar 2025)](https://multi-chronic-disease-detection-bot.onrender.com/)
+#### 🩺 Multi-Chronic Disease Detection Bot (Dec 2024 – Mar 2025)
 **Stack:** Python, CNN, Random Forest, Flask  
 - CNN feature extraction + tuned **Random Forest**, achieving **92.25% accuracy** on chest X-rays across **five respiratory diseases**.  
 - **Flask-based chatbot** for real-time prediction and accessibility.  
-- **GoMaps**-based doctor suggestions + **automated PDF** diagnostic reports.
+- **GoMaps**-based doctor suggestions + **automated PDF** diagnostic reports.  
+🔗 [Live Demo](https://multi-chronic-disease-detection-bot.onrender.com/) 
 
 ---
 
