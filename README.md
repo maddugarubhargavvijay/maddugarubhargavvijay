@@ -28,7 +28,7 @@ My work includes **sentiment analysis**, **healthcare AI**, and **chatbot** appl
 - CNN feature extraction + tuned **Random Forest**, achieving **92.25% accuracy** on chest X-rays across **five respiratory diseases**.  
 - **Flask-based chatbot** for real-time prediction and accessibility.  
 - **GoMaps**-based doctor suggestions + **automated PDF** diagnostic reports.  
-🔗 [Live Demo](https://multi-chronic-disease-detection-bot.onrender.com/) 
+🔗 [Project Link](https://multi-chronic-disease-detection-bot.onrender.com/) 
 
 ---
 
